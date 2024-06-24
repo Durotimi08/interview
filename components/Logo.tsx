@@ -14,7 +14,7 @@ export default function Logo({ className }: { className?: string }) {
             )}
         >
             <Podcast />
-            <p className="font-medium text-xl">InterviewGenie</p>
+            <p className="font-medium text-xl">Interviewer</p>
         </div>
     );
 }

@@ -18,17 +18,17 @@ export default function Footer() {
                         target="_blank"
                         className="underline"
                     >
-                        <span className={font.className}>Avinash Gupta</span>
+                        <span className={font.className}>Ibrahim Oluwadurotimi</span>
                     </Link>
                 </p>
                 <p>
                     Questions or feedback? Email{" "}
                     <Link
-                        href="mailto:avinashgupta.work@gmail.com"
+                        href="mailto:ibrahimdurotimi1@gmail.com"
                         className="underline"
                     >
                         <span className={font.className}>
-                            avinashgupta.work@gmail.com
+                            ibrahimdurotimi1@gmail.com
                         </span>
                     </Link>
                 </p>

@@ -85,4 +85,4 @@ Special thanks to [Interviews by AI](https://interviewsby.ai/) for inspiring thi
 
 ## Contact
 
-For any questions or feedback, please open an issue or contact us at [avinashgupta.works@gmail.com](mailto:avinashgupta.works@gmail.com).
+For any questions or feedback, please open an issue or contact me at [ibrahimdurotimi1@gmail.com](mailto:ibrahimdurotimi1@gmail.com).
